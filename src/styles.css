@@ -19,7 +19,8 @@ h4,
 h5,
 p,
 form,
-button {
+button,
+footer {
   font-family: "Poppins", sans-serif;
   color: #616161;
 }
@@ -32,6 +33,10 @@ h1 {
 h2 {
   font-size: 18px;
   font-weight: 200;
+}
+
+footer a {
+  color: #8aae92;
 }
 
 .weather-tip {
